@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-pinecone
+langchain-redis
+redis
+python-dotenv
+celery
+fastapi
+uvicorn
+python-multipart
+uuid
